@@ -1,0 +1,39 @@
+.demo {
+  padding: 2rem;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.data-table-form {
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, .1);
+  border-radius: .5rem;
+}
+
+.hide-element {
+  display: none;
+}
+
+.img--full {
+  width: 100%;
+  height: auto;
+}
+
+.data-table__td--avatar {
+  width: 90px;
+}
+
+.data-table__td--avatar img {
+  max-width: 90px;
+}
